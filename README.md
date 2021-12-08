@@ -11,9 +11,9 @@ The educational system has several problems due to the use of the bigbluebutton 
 - Chrome (Any Version)
 
 # Instructions
-1- <p> Install Chrome</p>
-2- <p> Install DaanNotification</p>
-3- <p> Now Ready to use <p>
+<p>1- Install Chrome</p>
+<p>2- Install DaanNotification</p>
+<p>3- Now Ready to use <p>
 
 # Execution example
 <img src="http://s10.picofile.com/file/8393417626/Screenshot_2020_04_08_Screenshot.png"/>
