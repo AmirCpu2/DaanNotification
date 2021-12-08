@@ -1,0 +1,23 @@
+  
+{
+    "name": "Daan Notifications",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "matches": ["https://*.daan.ir/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "browser_action": {
+      "default_title": "Daan Notifications"
+    },
+    "icons": {
+      "48": "icon48_active.png",
+      "128": "icon128.png"
+    },
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "permissions": ["tabs","notifications","activeTab","https://*.daan.ir/*"]
+  }
