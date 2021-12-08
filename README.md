@@ -1,5 +1,5 @@
 # DaanNotification
-Chrome Plugin for <a href="https://bigbluebutton.org/">BigBlueButton<a/> System Message Notification (Optimized for <a href="http://daan.ir/">Daan</a> Training Site)
+Chrome Plugin for <a href="https://bigbluebutton.org/">BigBlueButton<a/> System Message Notification (Optimized for <a href="http://daan.ir/">Daan</a> Education Site)
 
 # Overview EN
 <p>
