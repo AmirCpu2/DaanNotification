@@ -10,10 +10,10 @@ The educational system has several problems due to the use of the bigbluebutton 
 # Dependencies
 - Chrome (Any Version)
 
-# Usage
-<p> Install Chrome</p>
-<p> Install DaanNotification</p>
-<p> Now Ready to use <p>
+# Instructions
+1- <p> Install Chrome</p>
+2- <p> Install DaanNotification</p>
+3- <p> Now Ready to use <p>
 
 # Execution example
 <img src="http://s10.picofile.com/file/8393417626/Screenshot_2020_04_08_Screenshot.png"/>
